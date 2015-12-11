@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        
       // ToastUtils.showInfo(this, "基础信息!!!!!!!!!!!!!!");
        // DialogUtils.showDialog(this,null,null,null,null,null,null);
         //DialogUtils.showAlert(this,"温馨提示","您的手机将在10秒后自动关机!");
